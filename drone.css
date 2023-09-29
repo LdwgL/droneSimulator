@@ -1,0 +1,29 @@
+#map {
+	height: 800px;
+	width: 2000px;
+}
+
+h1 {
+	display: none;
+}
+
+html, body {
+	height: 400px;
+	margin: 0px;	
+}
+
+main {
+	height: 100%;
+}
+
+section {
+	height: 100%;
+}
+
+div.parent{
+	display:flex;
+}
+
+.coordinate{
+	width: 100%;
+}

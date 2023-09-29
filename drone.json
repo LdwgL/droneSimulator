@@ -1,0 +1,51 @@
+[
+    {
+        "Ville":"Paris",
+        "coordonnees": "48.856614, 2.3522219",
+        "modèle": "X1",
+        "lieu de départ": "Paris",
+        "lieu d'arrivée":"Bordeaux"
+    },
+    {
+        "value": "2",
+        "coordonnees":"44.837789, -0.57918",
+        "modèle": "X2",
+        "lieu de départ": "Bordeaux",
+        "lieu d'arrivée":"Paris",
+        "heure de départ": "7h30",
+        "heure d'arrivée": "14h00",
+        "vitesse": "60km/h"
+    },
+    {
+        "value": "3",
+        "coordonnees":"47.902964,1.909251",
+        "modèle": "X3",
+        "lieu de départ": "Orléans",
+        "lieu d'arrivée": "Paris",
+        "heure de départ": "9h00",
+        "heure d'arrivée": "18h00",
+        "vitesse": "90km/h"
+    },
+    {
+        "value": "4",
+        "coordonnees": "47.902964, 1.909251",
+        "modèle": "X4",
+        "lieu de départ": "Rouen",
+        "lieu d'arrivée": "Bordeaux",
+        "heure de départ": "10h00",
+        "heure d'arrivée": "19h00",
+        "vitesse": "80km/h"
+
+    },
+
+    {
+        "value":"5",
+        "coordonnees":"48.117266,-1.677792",
+        "modèle": "X5",
+        "lieu de départ":"Rennes",
+        "lieu d'arrivée":"Bordeaux",
+        "heure de départ": "10h00",
+        "heure d'arrivée": "19h00",
+        "vitesse": "80km/h"
+    }
+]
