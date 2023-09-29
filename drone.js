@@ -23,14 +23,14 @@ map.on('click', function(e) {
   console.log("ici", e)             
 });
 
-parisMarker = document.getElementById("ParisMarker");
+let parisMarker = document.getElementById("ParisMarker");
 
 // Add Map Scale
 
 L.control.scale({position:'bottomleft'}).addTo(map);
 
 // Paris Add Marker
-const parisMarker = L.marker(Paris).addTo(map);
+parisMarker = L.marker(Paris).addTo(map);
 // End Paris Marker
 
 // Bordeaux Add Marker
