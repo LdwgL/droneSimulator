@@ -25,11 +25,6 @@ map.on('click', function(e) {
 
 parisMarker = document.getElementById("ParisMarker");
 
-parisMarker.addEventListener("mousemove", (e) =>{
-
-  .addTo(map).bindPopUp('')
-})
-
 // Add Map Scale
 
 L.control.scale({position:'bottomleft'}).addTo(map);
